@@ -435,6 +435,25 @@ h6 {
   background-size: cover;
 }
 
+#contact-button {
+  background-size: cover;
+  padding-bottom: 30px;
+  padding-top: 50px;
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 12px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 12px 40px;
+  border-radius: 50px;
+  transition: 0.5s;
+  margin-top: 30px;
+  color: #fff;
+  background: #34b7a7;
+}
+
+
 #hero .container {
   padding-top: 70px;
   position: relative;
